@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_desc">Used only to detect when Facebook is opened so ChupaRustom can lock it until you have walked enough steps. No screen content is read.</string>
+</resources>
